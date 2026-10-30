@@ -48,13 +48,7 @@ export default function About({ go }) {
       {/* HERO */}
       <section id="story" className="grid items-center gap-14 md:grid-cols-[1.15fr_.85fr]">
         <div>
-          <div className="mb-5 flex flex-wrap gap-2 text-xs">
-            {["Lagos, Nigeria", "IT at Anchor University", "Frontend & UX"].map((c) => (
-              <span key={c} className="rounded-full border px-3 py-1" style={{ borderColor: "var(--line)" }}>{c}</span>
-            ))}
-          </div>
-          <p className="mb-3 text-xs font-semibold uppercase tracking-[0.28em]" style={{ color: "var(--mute)" }}>Frontend developer · UX · IT student</p>
-          <h2 className="serif text-6xl leading-[1.02] md:text-8xl">Hi, I’m <em style={{ color: "var(--amber)" }}>Comfort.</em></h2>
+          <h2 className="serif text-6xl leading-[1.02] md:text-8xl">Hi, I’m <em style={{ color: "var(--amber)" }}>Chidimma.</em></h2>
           <p className="disp mt-5 text-2xl font-bold md:text-3xl">Building with purpose. <span style={{ color: "var(--violet)" }}>Learning with intention.</span></p>
           <div className="mt-6 space-y-4">
             <P>Hi, I’m Comfort Chidimma Emmanuel, an Information Technology student at Anchor University, Lagos, Nigeria, with a growing interest in frontend development, user experience, and building digital solutions that solve real problems.</P>

@@ -6,11 +6,11 @@ export const EMAIL = "skolemmie@gmail.com";
 
 // Your links. Replace each url with your real profile.
 export const SOCIALS = [
-  { name: "LinkedIn", url: "https://www.linkedin.com/in/your-handle", color: "#0a66c2" },
+  { name: "LinkedIn", url: "www.linkedin.com/in/comfort-emmanuel-03159032b", color: "#0a66c2" },
   { name: "GitHub", url: "https://github.com/Skol-Chie", color: "#ffffff" },
-  { name: "WhatsApp", url: "https://wa.me/234XXXXXXXXXX", color: "#25a05a" },
-  { name: "Telegram", url: "https://t.me/your_username", color: "#2a8fc9" },
-  { name: "Substack", url: "https://your-name.substack.com", color: "#e8742a" },
+  { name: "WhatsApp", url: "https://wa.me/2349051058454", color: "#25a05a" },
+  { name: "Telegram", url: "https://t.me/@Engrskol", color: "#2a8fc9" },
+  { name: "Substack", url: "https://substack.com/@emmanuelcomfortchidimma", color: "#e8742a" },
 ];
 
 // Background video: put your file at public/videos/background.mp4
@@ -47,20 +47,15 @@ export const JOURNEY = [
 // Certificates. Replace the placeholders with yours (placeholder: true shows a dashed "add me" card).
 // Add the PDF/image to public/certificates/ and set file: "/certificates/name.pdf" to make it downloadable.
 export const CERTIFICATIONS = [
-  { title: "Certificate title", issuer: "Issuing organization", year: "Year", placeholder: true },
-  { title: "Certificate title", issuer: "Issuing organization", year: "Year", placeholder: true },
-  { title: "Certificate title", issuer: "Issuing organization", year: "Year", placeholder: true },
-  { title: "Certificate title", issuer: "Issuing organization", year: "Year", placeholder: true },
+  { title: "Software Development", issuer: "TS Academy", year: "2026", placeholder: false, file: "/certificates/certificate-6208.pdf" },
+  { title: "Google Prompt Engineering", issuer: "Google", year: "2025", placeholder: false, file: "/certificates/Coursera 18QNBVFW1B5K.pdf" },
+
 ];
 
 // Download center. Put each file in public/documents/ and set available: true.
 export const DOCUMENTS = [
   { title: "Curriculum Vitae (CV)", desc: "One-page summary of my profile, education and leadership.", file: "/documents/Comfort-Chidimma-Emmanuel-CV.pdf", available: true },
-  { title: "Certificates", desc: "All my certificates in a single PDF.", file: "/documents/Certificates.pdf", available: false },
-  { title: "Cover letter", desc: "A general cover letter for opportunities and internships.", file: "/documents/Cover-Letter.pdf", available: false },
-  { title: "Academic record", desc: "Transcript or student status from Anchor University.", file: "/documents/Academic-Record.pdf", available: false },
-  { title: "Recommendation letter", desc: "Reference letter from a lecturer or mentor.", file: "/documents/Recommendation.pdf", available: false },
-];
+ ];
 
 export const SKILLS = ["HTML & CSS", "JavaScript", "React", "Tailwind CSS", "Git", "UI/UX thinking"];
 
