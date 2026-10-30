@@ -61,10 +61,27 @@ export const SKILLS = ["HTML & CSS", "JavaScript", "React", "Tailwind CSS", "Git
 
 // Your GitHub username. The Projects page loads your repos live.
 export const GITHUB_USER = "Skol-Chie";
+
 // Repo names to pin first (exact GitHub repo names), e.g. ["my-best-project"]
-export const FEATURED = [];
+export const FEATURED = [
+  "TS-Academy-SDC-Project-Group-9",
+  "RDLand",
+  "Skol-Chie",
+  "P-Port",
+  "SafeTap",
+  "GoldenVoice",
+  "Asset-portal",
+  "Useklave.com"
+];
+
 // Repo names to hide from the portfolio
-export const HIDE_REPOS = [];
+export const HIDE_REPOS = [
+  "StoryForge.AI",
+  "Lib-System",
+  "HTML-CV",
+  "EmzeeVisuals"
+];
+
 
 export const SERVICES = [
   { kind: "code", title: "Frontend development that feels fast and looks sharp", desc: "Responsive, accessible interfaces built with HTML, CSS, JavaScript and React." },
