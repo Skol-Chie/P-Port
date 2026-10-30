@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./github-banner.png" 
+       alt="Emmanuel Comfort Chidimma - Software Developer"
+       width="100%" />
+</p>
+
 # Emmanuel Comfort Chidimma | Personal Portfolio
 
 <p align="center">
