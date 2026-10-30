@@ -1,6 +1,13 @@
-# Environment Variables
-.env
+# Dependencies (NEVER push these to GitHub)
+node_modules/
+.vite/
+.next/
+dist/
 
-# Ignore all text-based Readme help files
+# Environment Variables (Secret keys)
+.env
+.env.local
+
+# Ignore text-based Readme help files
 README.txt
 public/**/README.txt
