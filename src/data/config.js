@@ -1,17 +1,40 @@
-// ===== EDIT YOUR DETAILS HERE =====
 export const NAME = "Emmanuel Comfort Chidimma";
+
+// Keep this if you intentionally prefer this name order on your About page.
 export const FULL_NAME_ABOUT = "Comfort Chidimma Emmanuel";
-export const ROLE = "Frontend developer in the making · IT student";
+
+export const ROLE = "Certified Software Developer · Information Technology Student";
+
 export const EMAIL = "skolemmie@gmail.com";
 
-// Your links. Replace each url with your real profile.
 export const SOCIALS = [
-  { name: "LinkedIn", url: "www.linkedin.com/in/comfort-emmanuel-03159032b", color: "#0a66c2" },
-  { name: "GitHub", url: "https://github.com/Skol-Chie", color: "#ffffff" },
-  { name: "WhatsApp", url: "https://wa.me/2349051058454", color: "#25a05a" },
-  { name: "Telegram", url: "https://t.me/@Engrskol", color: "#2a8fc9" },
-  { name: "Substack", url: "https://substack.com/@emmanuelcomfortchidimma", color: "#e8742a" },
+  {
+    name: "LinkedIn",
+    url: "https://www.linkedin.com/in/comfort-emmanuel-03159032b/",
+    color: "#0a66c2"
+  },
+  {
+    name: "GitHub",
+    url: "https://github.com/Skol-Chie",
+    color: "#ffffff"
+  },
+  {
+    name: "WhatsApp",
+    url: "https://wa.me/2349051058454",
+    color: "#25a05a"
+  },
+  {
+    name: "Telegram",
+    url: "https://t.me/Engrskol",
+    color: "#2a8fc9"
+  },
+  {
+    name: "Substack",
+    url: "https://substack.com/@emmanuelcomfortchidimma",
+    color: "#e8742a"
+  },
 ];
+
 
 // Background video: put your file at public/videos/background.mp4
 // (if the file is missing, an animated code-rain background is used instead)
