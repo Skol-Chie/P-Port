@@ -1,2 +1,6 @@
-node_modules
-dist
+# Environment Variables
+.env
+
+# Ignore all text-based Readme help files
+README.txt
+public/**/README.txt
